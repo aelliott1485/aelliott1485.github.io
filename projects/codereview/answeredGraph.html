@@ -1,0 +1,62 @@
+
+<html>
+
+    <head>
+        <script src="//www.chartjs.org/dist/2.7.2/Chart.bundle.js"></script>
+        <script src="//www.chartjs.org/samples/latest/utils.js"></script>
+    </head>
+    <body>
+        <div style="width:75%;">
+            <canvas id="canvas"></canvas>
+        </div>
+        <script type="text/javascript">
+          const url = "https://chat.stackexchange.com/search?q=%22RELOAD!+There+are%22&user=125580&room=8595&pagesize=150";
+          fetch(url).then(response => response.text()).then(html => {
+            console.log('html', html);
+          });
+          const drawChart = _ => {
+            Chart.defaults.global.legend.display = false;
+            const config = {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Unanswered Percentage',
+                        backgroundColor: window.chartColors.red,
+                        borderColor: window.chartColors.red,
+                        data: data,
+                        fill: false
+                    }]
+                },
+                options: {
+                    title: {
+                        display: true,
+                        text: 'Answered percentage in recent months'
+                    },
+                    scales: {
+                        xAxes: [{
+                            display: true,
+                            scaleLabel: {
+                                display: true,
+                                labelString: 'Date'
+                            }
+                        }],
+                        yAxes: [{
+                            display: true,
+                            scaleLabel: {
+                                display: true,
+                                labelString: 'Percentage'
+                            }
+                        }]
+                    }
+                }
+            };
+            document.addEventListener('DOMContentLoaded', _ => {
+                var ctx = document.getElementById('canvas').getContext('2d');
+                window.myLine = new Chart(ctx, config);
+            });
+          };
+        </script>
+    </body>
+
+    </html>
