@@ -10,8 +10,9 @@
             <canvas id="canvas"></canvas>
         </div>
         <script type="text/javascript">
-          const url = "https://chat.stackexchange.com/search?q=%22RELOAD!+There+are%22&user=125580&room=8595&pagesize=150";
-          fetch(url).then(response => response.text()).then(html => {
+          const url = 'https://chat.stackexchange.com/search?q=%22RELOAD!+There+are%22&user=125580&room=8595&pagesize=150';
+          const pUrl = 'https://cors-escape.herokuapp.com/' + url;
+          fetch(pUrl).then(response => response.text()).then(html => {
             console.log('html', html);
           });
           const drawChart = _ => {
