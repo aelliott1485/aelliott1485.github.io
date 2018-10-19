@@ -26,8 +26,8 @@
                 for (contentElement of contents) {
                   var matches = contentElement.innerHTML.match(/\d{2}.\d{4}/);
                   if (matches.length) {
-                    data.push(matches[0]);
-                    labels.push(timestamps[i++].innerHTML);
+                    data.unshift(matches[0]);
+                    labels.unshift(timestamps[i++].innerHTML);
                   }
                 }
                 if (data.length) {
