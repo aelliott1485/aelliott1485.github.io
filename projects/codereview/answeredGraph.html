@@ -13,9 +13,29 @@
           const url = 'https://chat.stackexchange.com/search?q=%22RELOAD!+There+are%22&user=125580&room=8595&pagesize=150';
           const pUrl = 'https://cors-escape.herokuapp.com/' + encodeURIComponent(url);
           fetch(pUrl).then(response => response.text()).then(html => {
-            console.log('html', html);
+            //console.log('html', html);
+            const container = document.createElement('div');
+	          container.style.display = 'none';
+	          container.innerHTML = html;
+            const timestamps = container.getElementsByClassName('timestamp');
+	          const contents = container.getElementsByClassName('content'); 
+            
+            if(contents.length == timestamps.length) {
+              let i = 0;
+              const labels = [], data = [];
+              for (contentElement of contents) {
+                var matches = contentElement.innerHTML.match(/\d{2}.\d{4}/);
+                if (matches.length) {
+                  data.push(matches[0]);
+                  labels.push(timestamps[i++].innerHTML);
+                }
+              }
+              if (data.length) {
+                drawChart(data, labels);
+              }
+            }
           });
-          const drawChart = _ => {
+          const drawChart = (data, labels) => {
             Chart.defaults.global.legend.display = false;
             const config = {
                 type: 'line',
