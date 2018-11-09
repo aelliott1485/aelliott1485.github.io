@@ -1,3 +1,4 @@
+
 <html>
     <head>
       <title>Graph of Percentage of Answered Questions</title>
@@ -13,37 +14,38 @@
           const url = 'https://chat.stackexchange.com/search?q=%22RELOAD!+There+are%22&user=125580&room=8595&pagesize=150';
           const pUrl = 'https://cors-escape.herokuapp.com/' + url;
           
-          document.addEventListener('DOMContentLoaded', _ => {
+          async function getGraphData() {
             const loadingImage = document.getElementById('loading');
-            fetch(pUrl)
-              .then(response => response.text())
-                .then(html => {
-                const container = document.createElement('div');
-                container.innerHTML = html;
-                const timestamps = container.getElementsByClassName('timestamp');
-                const contents = container.getElementsByClassName('content'); 
+            try {
+              const container = document.createElement('div');
+            
+              const response = await fetch(pUrl);
+              container.innerHTML = await response.text();
+              const timestamps = container.getElementsByClassName('timestamp');
+              const contents = container.getElementsByClassName('content'); 
 
-                if(contents.length == timestamps.length) {
-                  let i = 0;
-                  const labels = [], data = [];
-                  for (contentElement of contents) {
-                    var matches = contentElement.innerHTML.match(/\d{2}.\d{4}/);
-                    if (matches.length) {
-                      data.unshift(matches[0]);
-                      labels.unshift(timestamps[i++].innerHTML);
-                    }
-                  }
-                  if (data.length) {
-                    loadingImage.style.display = 'none';
-                    drawChart(data, labels);
+              const labels = [], data = [];
+              if(contents.length == timestamps.length) {
+                let i = 0;
+                for (contentElement of contents) {
+                  var matches = contentElement.innerHTML.match(/\d{2}.\d{4}/);
+                  if (matches.length) {
+                    data.unshift(matches[0]);
+                    labels.unshift(timestamps[i++].innerHTML);
                   }
                 }
-              })
-            .catch(error =>{
+                if (data.length) {
+                  loadingImage.style.display = 'none';
+                  drawChart(data, labels);
+                }
+              }
+            }
+            catch(err) {
               loadingImage.parentNode.innerHTML = 'Error loading data';
-              console.log('error: ', error);
-            });
-          });
+            }
+          }
+          
+          document.addEventListener('DOMContentLoaded', getGraphData)
           const drawChart = (data, labels) => {
             Chart.defaults.global.legend.display = false;
             const config = {
@@ -86,4 +88,5 @@
           };
         </script>
     </body>
-</html>
+
+    </html>
