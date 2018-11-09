@@ -25,7 +25,7 @@
               const contents = container.getElementsByClassName('content'); 
 
               const labels = [], data = [];
-              if(contents.length == timestamps.length) {
+              if(contents.length === timestamps.length) {
                 let i = 0;
                 for (contentElement of contents) {
                   var matches = contentElement.innerHTML.match(/\d{2}.\d{4}/);
