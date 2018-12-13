@@ -22,22 +22,44 @@
         <script type="text/javascript">
           const url = 'https://chat.stackexchange.com/search?q=%22RELOAD!+There+are%22&user=125580&room=8595&pagesize=150';
           const pUrl = 'https://cors-escape.herokuapp.com/' + url;
-          
+          const chartOptions = {
+            title: {
+              display: true,
+              text: 'Answered percentage in recent months'
+            },
+            scales: {
+              xAxes: [{
+                display: true,
+                scaleLabel: {
+                  display: true,
+                  labelString: 'Date'
+                }
+              }],
+              yAxes: [{
+                display: true,
+                scaleLabel: {
+                  display: true,
+                  labelString: 'Percentage'
+                }
+              }]
+            }
+          };
+
           async function getGraphData() {
             const loadingImage = document.getElementById('loading');
             try {
-              const container = document.createElement('div');
-            
               const response = await fetch(pUrl);
+              const container = document.createElement('div');
               container.innerHTML = await response.text();
               const timestamps = container.getElementsByClassName('timestamp');
-              const contents = container.getElementsByClassName('content'); 
+              const contents = container.getElementsByClassName('content');
 
-              const labels = [], data = [];
-              if(contents.length === timestamps.length) {
+              const labels = [],
+                data = [];
+              if (contents.length === timestamps.length) {
                 let i = 0;
                 for (contentElement of contents) {
-                  var matches = contentElement.innerHTML.match(/\d{2}.\d{4}/);
+                  const matches = contentElement.innerHTML.match(/\d{2}.\d{4}/);
                   if (matches.length) {
                     data.unshift(matches[0]);
                     labels.unshift(timestamps[i++].innerHTML);
@@ -48,51 +70,29 @@
                   drawChart(data, labels);
                 }
               }
-            }
-            catch(err) {
+            } catch (err) {
               loadingImage.parentNode.innerHTML = 'Error loading data';
             }
           }
-          
+
           document.addEventListener('DOMContentLoaded', getGraphData)
           const drawChart = (data, labels) => {
             Chart.defaults.global.legend.display = false;
             const config = {
-                type: 'line',
-                data: {
-                    labels: labels,
-                    datasets: [{
-                        label: 'Answered Percentage',
-                        backgroundColor: window.chartColors.red,
-                        borderColor: window.chartColors.red,
-                        data: data,
-                        fill: false
-                    }]
-                },
-                options: {
-                    title: {
-                        display: true,
-                        text: 'Answered percentage in recent months'
-                    },
-                    scales: {
-                        xAxes: [{
-                            display: true,
-                            scaleLabel: {
-                                display: true,
-                                labelString: 'Date'
-                            }
-                        }],
-                        yAxes: [{
-                            display: true,
-                            scaleLabel: {
-                                display: true,
-                                labelString: 'Percentage'
-                            }
-                        }]
-                    }
-                }
-            };            
-            var ctx = document.getElementById('canvas').getContext('2d');
+              type: 'line',
+              data: {
+                labels,
+                datasets: [{
+                  label: 'Answered Percentage',
+                  backgroundColor: window.chartColors.red,
+                  borderColor: window.chartColors.red,
+                  data,
+                  fill: false
+                }]
+              },
+              options: chartOptions
+            };
+            const ctx = document.getElementById('canvas').getContext('2d');
             window.myLine = new Chart(ctx, config);
           };
         </script>
