@@ -1,0 +1,33 @@
+body {
+  padding: 4px;
+  font-family: serif;
+}
+h1 {
+   font: 400 20px cursive;
+}
+input[type="range"] {
+  width: 100%;
+}
+#listContainer {
+  overflow-y: hidden;
+}
+
+li {
+  background: #fff;
+  color: #000000;
+  border-radius: 4px;
+  border: 2px solid #6a737c;
+  padding: 3px;
+}
+
+li.FizzBuzz {
+  border-color: #f800ff; 
+}
+
+li.Fizz {
+  border-color: #f80000;
+}
+
+li.Buzz {
+  border-color: #0000ff;
+}

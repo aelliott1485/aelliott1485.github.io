@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <link rel="stylesheet" src="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      <h1>
+        FizzBuzz with dynamic height container
+      </h1>
+      <div>
+       Height: {{ height }}
+      </div>
+      <input type="range" min="200" max="3000" v-model="height" />
+      <div id="listContainer" v-bind:style="{ height: height + 'px'}">
+        <ul>
+          <li v-for="number in numbers" :class="getClass(number)">
+            {{ number | getOutput }}
+          </li>
+        </ul>
+      </div>  
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>
