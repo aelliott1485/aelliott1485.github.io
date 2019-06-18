@@ -34,6 +34,9 @@ Maybe you missed the text on the right side when asking: "_Your question must co
 ###[Q] Commented with more details
 When adding additional information you should [edit] your question  instead of adding a comment. I have added that information to your post. Learn more about comments including when to comment and when not to in [the Help Center page about Comments](https://$SITEURL$/help/privileges/comment).
 
+###[Q] Add answer instead of comment
+Please add an answer instead of a comment. Refer to the section **When _shouldn't_ I comment?** on [Comment everywhere](https://$SITEURL$/help/privileges/comment).
+
 ###[Q] merge accounts
 it appears you have a registered account (as evidenced by the suggested edit), which can be merged with your unregistered account. You can use the [contact SE page](https://$SITEURL$/contact) and request the accounts be merged.
 
