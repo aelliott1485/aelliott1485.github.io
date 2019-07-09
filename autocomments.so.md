@@ -5,13 +5,16 @@ It is preferred if you can post separate questions instead of combining your que
 This question will probably be closed as a duplicate soon. If the answers from the duplicates don't fully address your question please edit it to include why and flag this for re-opening. Thanks!
 
 ###[Q] VTC SO -> CR new
-Please see [_Does being on-topic at another Stack Exchange site automatically make a question off-topic for Stack Overflow?_](https://meta.stackoverflow.com/q/287400/1575353), [_Migration of code questions from Stack Overflow to Code Review_](https://meta.stackoverflow.com/q/266749/1575353) and [this answer to _A guide to Code Review for $SITENAME$ users_](https://codereview.meta.stackexchange.com/a/5778/120114)
+Please see [_Does being on-topic at another Stack Exchange site automatically make a question off-topic for $SITENAME$?_](https://meta.stackoverflow.com/q/287400/1575353), [_Migration of code questions from $SITENAME$ to Code Review_](https://meta.stackoverflow.com/q/266749/1575353) and [this answer to _A guide to Code Review for $SITENAME$ users_](https://codereview.meta.stackexchange.com/a/5778/120114)
 
 ###[Q] VTC SO -> CR
 @ Feel free to recommend the OP post on CR but in the future, please don't use the existence of the Code Review site as a reason to close a question. Evaluate the request and use a reason like *too broad*, *primarily opinion-based*, etc. Then you can mention to the OP that it can be posted on Code Review if it is [on-topic](https://codereview.stackexchange.com/help/on-topic). Please see the section **What you should not do** in [this answer to _A guide to Code Review for $SITENAME$ users_](https://codereview.meta.stackexchange.com/a/5778/120114)
 
 ###[Q] answer in comment
 please add an answer instead of a comment. Refer to the section **When _shouldn't_ I comment?** on [Comment everywhere](https://codereview.stackexchange.com/help/privileges/comment).
+
+###[Q] Which site and CR or not
+See ["Which Site?"](https://meta.stackexchange.com/a/129632/341145) and ["Code Review or not?"](https://codereview.meta.stackexchange.com/a/5778/120114)
 
 ###[A] Answers just to say Thanks!
 Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](//$SITEURL$/privileges) to upvote answers you like, which is the $SITENAME$ way of saying thank you.
