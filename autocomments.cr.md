@@ -62,7 +62,7 @@ Please note, questions involving code that's not working as intended, are off-to
 [Please refrain from answering questions that are likely to get closed.](https://codereview.meta.stackexchange.com/a/6389/35991)
 
 ###[A] link-only answer
-A link to a solution is welcome, but please ensure your answer is useful without it: [add context around the link](https://meta.stackexchange.com/a/8259) so your fellow users will have some idea what it is and why it’s there, then quote the most relevant part of the page you're linking to in case the target page is unavailable. [Answers that are little more than a link may be deleted](https://stackoverflow.com/help/deleted-answers).
+A link to a solution is welcome, but please ensure your answer is useful without it: [add context around the link](https://meta.stackexchange.com/a/8259) so your fellow users will have some idea what it is and why it’s there, then quote the most relevant part of the page you're linking to in case the target page is unavailable. [Answers that are little more than a link may be deleted](https://codereview.stackexchange.com/help/deleted-answers).
 
 ###[A] Doesn't answer question
 This does not answer the question the OP posed (i.e. "_How can I make it run faster? How can I write it in a OOP paradigm, and will it run faster?_"). Please see [How do I write a good answer](https://$SITEURL$/help/how-to-answer) before posting an answer. If you have a related but separate question, you can [ask](https://$SITEURL$/questions/ask) another question and mention this question, or if you have code not working, try [SO].
