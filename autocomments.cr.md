@@ -52,6 +52,9 @@ I rolled back your last edit. After getting an answer you are not allowed to cha
 ###[Q] rolled back last edit (Graipher's)
 I rolled back your last edit. After getting an answer you are [not allowed to change your code anymore](https://$SITEURL$/help/someone-answers). This is to ensure that answers do not get invalidated and have to hit a moving target. If you have changed your code you can either post it as an answer (if it would constitute a code review) or ask a new question with your changed code (linking back to this one as reference). Refer to [this post](https://codereview.meta.stackexchange.com/a/1765/120114) for more information
 
+###[Q] SQL need more info
+Please read the [sql tag wiki](https://codereview.stackexchange.com/tags/sql/info) - especially the **Question Guidelines** section. Before reviewing this code, it would be helpful to have some more information about the data. 
+
 ###[A] Nothing insightful
 This answer doesn't really offer much for the OP. Please (re-) read [The help center page _How do I write a good answer?_](https://$SITEURL$/help/how-to-answer). Note it states: "_Every answer must make at least one **insightful observation** about the code in the question. Answers that merely provide an alternate solution with no explanation or justification do not constitute valid $SITENAME$ answers and may be deleted._"
 
