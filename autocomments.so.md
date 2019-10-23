@@ -16,8 +16,11 @@ please add an answer instead of a comment. Refer to the section **When _shouldn'
 ###[Q] Which site and CR or not
 See ["Which Site?"](https://meta.stackexchange.com/a/129632/341145) and ["Code Review or not?"](https://codereview.meta.stackexchange.com/a/5778/120114)
 
-###[Q] OP referred to CR 
-If you do post on CR please read the [_How do I ask a good question?_](https://codereview.stackexchange.com/help/how-to-ask) - the requirements are a little different for that site. 
+###[Q] OP referred to CR
+If you do post on CR please read the [_How do I ask a good question?_](https://codereview.stackexchange.com/help/how-to-ask) - the requirements are a little different for that site.
+
+###[Q] if you post on CR - read how do I ask 
+if you post on Code Review please read the help center pages like [_How do I ask a good question?_](https://codereview.stackexchange.com/help/how-to-ask) - in its current form this post would be considered off-topic because there is little context about what the code does and how the function is used, plus the title is about CR goals instead of describing what the code does
 
 ###[A] Answers just to say Thanks!
 Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](//$SITEURL$/privileges) to upvote answers you like, which is the $SITENAME$ way of saying thank you.
