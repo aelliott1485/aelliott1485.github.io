@@ -58,6 +58,9 @@ Please read the [sql tag wiki](https://codereview.stackexchange.com/tags/sql/inf
 ###[Q] Need more context
 This question lacks any indication of what the code is intended to achieve. To help reviewers give you better answers, please add sufficient context to your question, including a title that summarises the purpose of the code. We want to know **why** much more than **how**. The more you tell us about [what your code is for](https://meta.codereview.stackexchange.com/q/1226), the easier it will be for reviewers to help you. The title needs an [edit] to simply [state the task](https://meta.codereview.stackexchange.com/q/2436).
 
+###[Q] Which site and CR or not
+See ["Which Site?"](https://meta.stackexchange.com/a/129632/341145) and ["Code Review or not?"](https://codereview.meta.stackexchange.com/a/5778/120114)
+
 ###[A] Nothing insightful
 This answer doesn't really offer much for the OP. Please (re-) read [The help center page _How do I write a good answer?_](https://$SITEURL$/help/how-to-answer). Note it states: "_Every answer must make at least one **insightful observation** about the code in the question. Answers that merely provide an alternate solution with no explanation or justification do not constitute valid $SITENAME$ answers and may be deleted._"
 
