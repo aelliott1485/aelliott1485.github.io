@@ -1,5 +1,5 @@
-###[Q] title about CR goals
-What task does this code accomplish? Please tell us, and also make that the title of the question via [edit]. Maybe you missed the placeholder on the title element: "_State the task that your code accomplishes. Make your title distinctive._". Also from  [How to Ask](https://$SITEURL$/questions/how-to-ask): "_State what your code does in your title, not your main concerns about it._".
+###[Q] general title (about CR goals)
+Welcome to Code Review! The current question title, which states your concerns about the code, is too general to be useful here. Please [edit] to the site standard, which is for the title to simply state the task accomplished by the code. Please see [How to get the best value out of Code Review: Asking Questions](https://codereview.meta.stackexchange.com/q/2436) for guidance on writing good question titles.
 
 ###[Q] not workingg
 Please inform yourself, [take the tour](https://$SITEURL$/tour), and read up at our [help center](https://$SITEURL$/help/on-topic) before posting here. Your question is _off-topic_ because this site is for reviewing **working** code, not implementing code for you. When you have implemented the code feel free to [edit] your post to include it for a review.
@@ -62,7 +62,7 @@ This question lacks any indication of what the code is intended to achieve. To h
 See ["Which Site?"](https://meta.stackexchange.com/a/129632/341145) and ["$SITENAME$ or not?"](https://codereview.meta.stackexchange.com/a/5778/120114)
 
 ###[A] Different language
-Hi. The question is tagged [tag:Javascript]. The consensus is that [answers should use the same language as the code in the question](https://codereview.meta.stackexchange.com/a/2631/120114). Please write your answer according to the tags. Thanks! :) 
+Hi. The question is tagged [tag:Javascript]. The consensus is that [answers should use the same language as the code in the question](https://codereview.meta.stackexchange.com/a/2631/120114). Please write your answer according to the tags. Thanks! :)
 
 ###[A] Nothing insightful
 This answer doesn't really offer much for the OP. Please (re-) read [The help center page _How do I write a good answer?_](https://$SITEURL$/help/how-to-answer). Note it states: "_Every answer must make at least one **insightful observation** about the code in the question. Answers that merely provide an alternate solution with no explanation or justification do not constitute valid $SITENAME$ answers and may be deleted._"
