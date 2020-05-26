@@ -8,7 +8,7 @@ This question will probably be closed as a duplicate soon. If the answers from t
 Please see [_Does being on-topic at another Stack Exchange site automatically make a question off-topic for $SITENAME$?_](https://meta.stackoverflow.com/q/287400/1575353), [_Migration of code questions from $SITENAME$ to Code Review_](https://meta.stackoverflow.com/q/266749/1575353) and [this answer to _A guide to Code Review for $SITENAME$ users_](https://codereview.meta.stackexchange.com/a/5778/120114)
 
 ###[Q] VTC SO -> CR
-@ While this may be on-topic on CR in the future, please don't use the existence of the Code Review site as a reason to close a question. Evaluate the request and use a reason like *needs focus*, *primarily opinion-based*, etc. Then you can mention to the OP that it can be posted on Code Review if it is [on-topic](https://codereview.stackexchange.com/help/on-topic). Please see [_Does being on-topic at another Stack Exchange site automatically make a question off-topic for Stack Overflow?_](https://meta.stackoverflow.com/q/287400/1575353)
+@ While this may be on-topic on CR in the future, please don't use the existence of the Code Review site as a reason to close a question. Evaluate the request and use a reason like *needs focus*, *primarily opinion-based*, etc. Then you can mention to the OP that it can be posted on Code Review if it is [on-topic](https://codereview.stackexchange.com/help/on-topic). Please see [_Does being on-topic at another Stack Exchange site automatically make a question off-topic for $SITENAME$?_](https://meta.stackoverflow.com/q/287400/1575353)
 
 ###[Q] answer in comment
 please add an answer instead of a comment. Refer to the section **When _shouldn't_ I comment?** on [Comment everywhere](https://codereview.stackexchange.com/help/privileges/comment).
@@ -21,6 +21,9 @@ If you do post on CR please read the [_How do I ask a good question?_](https://c
 
 ###[Q] if you post on CR - read how do I ask
 if you post on Code Review please read the help center pages like [_How do I ask a good question?_](https://codereview.stackexchange.com/help/how-to-ask) - in its current form this post would be considered off-topic because there is little context about what the code does and how the function is used, plus the title is about CR goals instead of describing what the code does
+
+###[Q] flagged for migration
+I've flagged for migration to CR per [_this meta post_](https://meta.stackoverflow.com/q/266749/1575353)
 
 ###[A] Answers just to say Thanks!
 Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](//$SITEURL$/privileges) to upvote answers you like, which is the $SITENAME$ way of saying thank you.
