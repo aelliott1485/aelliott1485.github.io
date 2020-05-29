@@ -1,8 +1,8 @@
 ###[Q] general title (about CR goals)
-Welcome to Code Review! The current question title, which states your concerns about the code, is too general to be useful here. Please [edit] to the site standard, which is for the title to simply state the task accomplished by the code. Please see [How to get the best value out of Code Review: Asking Questions](https://codereview.meta.stackexchange.com/q/2436) for guidance on writing good question titles.
+The current question title, which states your concerns about the code, is too general to be useful here. Please [edit] to the site standard, which is for the title to simply state the task accomplished by the code. Please see [How to get the best value out of $SITENAME$: Asking Questions](https://codereview.meta.stackexchange.com/q/2436) for guidance on writing good question titles.
 
 ###[Q] off-topic: Authorship of code
-Welcome to Code Review! Please inform yourself, [take the tour](https://codereview.stackexchange.com/tour), and read up at our [help center](https://codereview.stackexchange.com/help/on-topic) before posting here. Your question is _off-topic_ because this site is for reviewing code you write. [“_For licensing, moral, and procedural reasons, we cannot review code written by other programmers. We expect you, as the author, to understand why the code is written the way that it is._”](https://codereview.stackexchange.com/help/on-topic)
+Please inform yourself, [take the tour](https://$SITEURL$/tour), and read up at our [help center](https://$SITEURL$/help/on-topic) before posting here. Your question is _off-topic_ because this site is for reviewing code you write. [“_For licensing, moral, and procedural reasons, we cannot review code written by other programmers. We expect you, as the author, to understand why the code is written the way that it is._”](https://$SITEURL$/help/on-topic)
 
 ###[Q] not workingg
 Please inform yourself, [take the tour](https://$SITEURL$/tour), and read up at our [help center](https://$SITEURL$/help/on-topic) before posting here. Your question is _off-topic_ because this site is for reviewing **working** code, not implementing code for you. When you have implemented the code feel free to [edit] your post to include it for a review.
@@ -11,7 +11,7 @@ Please inform yourself, [take the tour](https://$SITEURL$/tour), and read up at 
 Unfortunately this post is off-topic for this site. Please read [What topics can I ask about here?](https://$SITEURL$/help/on-topic) - note that it states "_If you are looking for feedback on a specific **working** piece of code...then you are in the right place!_" Also, when posting your question, there should have been text on the side that read "_Your question **must contain code that is already working correctly**_..." When you have fixed the code, please [edit] your post to include the working code and it can be reviewed."
 
 ###[Q] stub code
-Welcome to $SITENAME$. Unfortunately this question does not match what this site is about. Reviewers need more than hypothetical/stub code. For more information, see [this meta post](https://codereview.meta.stackexchange.com/a/3652/120114).
+Unfortunately this question does not match what this site is about. Please re-read the Help center page [_What topics can I ask about here?_](https://codereview.stackexchange.com/help/on-topic) - specifically the third question. Reviewers need more than hypothetical/stub code. For more information, see [this meta post](https://codereview.meta.stackexchange.com/a/3652/120114).
 
 ###[Q] untested
 If you're not sure whether your code works correctly, I'm afraid it's not yet ready for review. $SITENAME$ is for finished code that you believe to be functionally correct.
