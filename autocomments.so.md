@@ -22,6 +22,9 @@ If you do post on CR please read the [_How do I ask a good question?_](https://c
 ###[Q] if you post on CR - read how do I ask
 if you post on Code Review please read the help center pages like [_How do I ask a good question?_](https://codereview.stackexchange.com/help/how-to-ask) - in its current form this post would be considered off-topic because there is little context about what the code does and how the function is used, plus the title is about CR goals instead of describing what the code does
 
+### [Q] when recommending CR also recommend reading help center
+@ when suggesting users post on CR it would be great if there was also a suggestion like "_Please read the relevant help center pages like '[What topics can I ask about here?](https://codereview.stackexchange.com/help/on-topic)' and  '[How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask)_". In the current form the code above would likely be closed as off-topic because it is missing context.
+
 ###[Q] flagged for migration
 I've flagged for migration to CR per [_this meta post_](https://meta.stackoverflow.com/q/266749/1575353)
 
