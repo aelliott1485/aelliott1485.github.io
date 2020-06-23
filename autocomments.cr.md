@@ -11,7 +11,7 @@ Please inform yourself, [take the tour](https://$SITEURL$/tour), and read up at 
 Unfortunately this post is off-topic for this site. Please read [What topics can I ask about here?](https://$SITEURL$/help/on-topic) - note that it states "_If you are looking for feedback on a specific **working** piece of code...then you are in the right place!_" Also, when posting your question, there should have been text on the side that read "_Your question **must contain code that is already working correctly**_..." When you have fixed the code, please [edit] your post to include the working code and it can be reviewed."
 
 ###[Q] stub code
-Unfortunately this question does not match what this site is about. Please re-read the Help center page [_What topics can I ask about here?_](https://codereview.stackexchange.com/help/on-topic) - specifically the third question. Reviewers need more than hypothetical/stub code. For more information, see [this meta post](https://codereview.meta.stackexchange.com/a/3652/120114).
+Unfortunately this question does not match what this site is about. Please re-read the Help center page [_What topics can I ask about here?_](https://$SITEURL$/help/on-topic) - specifically the third question. Reviewers need more than hypothetical/stub code. For more information, see [this meta post](https://codereview.meta.stackexchange.com/a/3652/120114).
 
 ###[Q] untested
 If you're not sure whether your code works correctly, I'm afraid it's not yet ready for review. $SITENAME$ is for finished code that you believe to be functionally correct.
@@ -47,7 +47,7 @@ it appears you have a registered account (as evidenced by the suggested edit), w
 Please see [_What to do when someone answers_](https://$SITEURL$/help/someone-answers). I have rolled back Rev 2 → 1
 
 ###[Q] don't update code
-Please do not update the code in your question to incorporate feedback from answers, doing so goes against the Question + Answer style of $SITENAME$. This is not a forum where you should keep the most updated version in your question. Please see [_what you may and may not do after receiving answers_](http://meta.codereview.stackexchange.com/a/1765).
+Please do not update the code in your question to incorporate feedback from answers, doing so goes against the Question + Answer style of $SITENAME$. This is not a forum where you should keep the most updated version in your question. Please see [What should I do when someone answers my question?](https://codereview.stackexchange.com/help/someone-answers) as well as  [_what you may and may not do after receiving answers_](http://meta.codereview.stackexchange.com/a/1765).
 
 ###[Q] code rolled back
 I rolled back your last edit. After getting an answer you are not allowed to change your code anymore. This is to ensure that answers do not get invalidated and have to hit a moving target. If you have changed your code you can either post it as an answer (if it would constitute a code review) or ask a new question with your changed code (linking back to this one as reference). Refer to [this post](https://codereview.meta.stackexchange.com/a/1765/120114) for more information
