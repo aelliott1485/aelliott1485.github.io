@@ -44,10 +44,10 @@ Please add an answer instead of a comment. Refer to the section **When _shouldn'
 it appears you have a registered account (as evidenced by the suggested edit), which can be merged with your unregistered account. You can use the [contact SE page](https://$SITEURL$/contact) and request the accounts be merged.
 
 ###[Q] rolled back(200_success's)
-Please see [_What to do when someone answers_](https://$SITEURL$/help/someone-answers). I have rolled back Rev 2 → 1
+I have rolled back Rev 2 → 1. Please see [_What to do when someone answers_](https://$SITEURL$/help/someone-answers).
 
 ###[Q] don't update code
-Please do not update the code in your question to incorporate feedback from answers, doing so goes against the Question + Answer style of $SITENAME$. This is not a forum where you should keep the most updated version in your question. Please see [What should I do when someone answers my question?](https://codereview.stackexchange.com/help/someone-answers) as well as  [_what you may and may not do after receiving answers_](http://meta.codereview.stackexchange.com/a/1765).
+Please do not update the code in your question to incorporate feedback from answers, doing so goes against the Question + Answer style of $SITENAME$. This is not a forum where you should keep the most updated version in your question. Please see [What should I do when someone answers my question?](https://$SITEURL$/help/someone-answers) as well as  [_what you may and may not do after receiving answers_](http://meta.codereview.stackexchange.com/a/1765).
 
 ###[Q] code rolled back
 I rolled back your last edit. After getting an answer you are not allowed to change your code anymore. This is to ensure that answers do not get invalidated and have to hit a moving target. If you have changed your code you can either post it as an answer (if it would constitute a code review) or ask a new question with your changed code (linking back to this one as reference). Refer to [this post](https://codereview.meta.stackexchange.com/a/1765/120114) for more information
