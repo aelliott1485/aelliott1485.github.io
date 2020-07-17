@@ -10,6 +10,9 @@ Please inform yourself, [take the tour](https://$SITEURL$/tour), and read up at 
 ###[Q] broken
 Unfortunately this post is off-topic for this site. Please read [What topics can I ask about here?](https://$SITEURL$/help/on-topic) - note that it states "_If you are looking for feedback on a specific **working** piece of code...then you are in the right place!_" Also, when posting your question, there should have been text on the side that read "_Your question **must contain code that is already working correctly**_..." When you have fixed the code, please [edit] your post to include the working code and it can be reviewed."
 
+###[Q] missing code context
+Welcome to Code Review! Please provide more complete code - e.g. complete function/method/class. ["_there are significant pieces of the core functionality missing, and we need you to fill in the details. Excerpts of large projects are fine, but if you have omitted too much, then reviewers are left imagining how your program works._"](https://codereview.meta.stackexchange.com/a/3652/120114)
+
 ###[Q] stub code
 Unfortunately this question does not match what this site is about. Please re-read the Help center page [_What topics can I ask about here?_](https://$SITEURL$/help/on-topic) - specifically the third question. Reviewers need more than hypothetical/stub code. For more information, see [this meta post](https://codereview.meta.stackexchange.com/a/3652/120114).
 
@@ -50,7 +53,7 @@ I have rolled back Rev 2 → 1. Please see [_What to do when someone answers_](h
 Please do not update the code in your question to incorporate feedback from answers, doing so goes against the Question + Answer style of $SITENAME$. This is not a forum where you should keep the most updated version in your question. Please see [What should I do when someone answers my question?](https://$SITEURL$/help/someone-answers) as well as  [_what you may and may not do after receiving answers_](http://meta.codereview.stackexchange.com/a/1765).
 
 ###[Q] code rolled back
-I rolled back your last edit. After getting an answer you are not allowed to change your code anymore. This is to ensure that answers do not get invalidated and have to hit a moving target. If you have changed your code you can either post it as an answer (if it would constitute a code review) or ask a new question with your changed code (linking back to this one as reference). Refer to [this post](https://codereview.meta.stackexchange.com/a/1765/120114) for more information
+I rolled back your last edit. After getting an answer you are not allowed to change your code anymore. This is to ensure that answers do not get invalidated and have to hit a moving target. If you have changed your code you can either post it as an answer (if it would constitute a code review) or ask a new question with your changed code (linking back to this one as reference). See the section _What should I not do?_ on [_What should I do when someone answers my question?_](https://$SITEURL$/help/someone-answers) for more information
 
 ###[Q] rolled back last edit (Graipher's)
 I rolled back your last edit. After getting an answer you are [not allowed to change your code anymore](https://$SITEURL$/help/someone-answers). This is to ensure that answers do not get invalidated and have to hit a moving target. If you have changed your code you can either post it as an answer (if it would constitute a code review) or ask a new question with your changed code (linking back to this one as reference). Refer to [this post](https://codereview.meta.stackexchange.com/a/1765/120114) for more information
