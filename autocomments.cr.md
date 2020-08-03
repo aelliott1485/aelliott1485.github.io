@@ -11,7 +11,7 @@ Please inform yourself, [take the tour](https://$SITEURL$/tour), and read up at 
 Unfortunately this post is off-topic for this site. Please read [What topics can I ask about here?](https://$SITEURL$/help/on-topic) - note that it states "_If you are looking for feedback on a specific **working** piece of code...then you are in the right place!_" Also, when posting your question, there should have been text on the side that read "_Your question **must contain code that is already working correctly**_..." When you have fixed the code, please [edit] your post to include the working code and it can be reviewed."
 
 ###[Q] missing code context
-Welcome to Code Review! Please provide more complete code - e.g. complete function/method/class. ["_there are significant pieces of the core functionality missing, and we need you to fill in the details. Excerpts of large projects are fine, but if you have omitted too much, then reviewers are left imagining how your program works._"](https://codereview.meta.stackexchange.com/a/3652/120114)
+Welcome to $SITENAME$! Please provide more complete code - e.g. complete function/method/class. ["_there are significant pieces of the core functionality missing, and we need you to fill in the details. Excerpts of large projects are fine, but if you have omitted too much, then reviewers are left imagining how your program works._"](https://codereview.meta.stackexchange.com/a/3652/120114)
 
 ###[Q] stub code
 Unfortunately this question does not match what this site is about. Please re-read the Help center page [_What topics can I ask about here?_](https://$SITEURL$/help/on-topic) - specifically the third question. Reviewers need more than hypothetical/stub code. For more information, see [this meta post](https://codereview.meta.stackexchange.com/a/3652/120114).
@@ -111,6 +111,9 @@ If you have a NEW question, please ask it by clicking the [Ask Question](//$SITE
 
 ###[A] NAA self-answer on CR
 While OPs are [encouraged to answer their own questions](https://$SITEURL$/help/self-answer) bear in mind that ["_Every answer must make at least one insightful observation about the code in the question. Answers that merely provide an alternate solution with no explanation or justification do not constitute valid $SITENAME$ answers and may be deleted._"](https://$SITEURL$/help/how-to-answer)...
+
+###[A] post-accepted answer - Please consider voting
+Thank you for taking the time to accept the answer. Please consider voting on it as well. ["_The first thing you should do after reading someone's answer to your question is vote on the answer, like any user with sufficient reputation does. Vote up answers that are helpful, and vote down answers that give poor advice._"](https://codereview.stackexchange.com/help/someone-answers)
 
 ###[C] Too localized
 This question appears to be off-topic because it is too localized.
