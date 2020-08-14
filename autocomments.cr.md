@@ -1,11 +1,11 @@
 ###[Q] general title (about CR goals)
-The current question title, which states your concerns about the code, is too general to be useful here. Please [edit] to the site standard, which is for the title to simply state the task accomplished by the code. Please see [How to get the best value out of $SITENAME$: Asking Questions](https://codereview.meta.stackexchange.com/q/2436) for guidance on writing good question titles.
+The current question title, which states your concerns about the code, is too general to be useful here. Please [edit] to the site standard, which is for the title to simply state the task accomplished by the code. Please see [How do I ask a good question?](https://$SITEURL$/help/how-to-ask), as well as  [How to get the best value out of $SITENAME$: Asking Questions](https://codereview.meta.stackexchange.com/q/2436/120114) for guidance on writing good question titles.
 
 ###[Q] off-topic: Authorship of code
-Please inform yourself, [take the tour](https://$SITEURL$/tour), and read up at our [help center](https://$SITEURL$/help/on-topic) before posting here. Your question is _off-topic_ because this site is for reviewing code you write. [“_For licensing, moral, and procedural reasons, we cannot review code written by other programmers. We expect you, as the author, to understand why the code is written the way that it is._”](https://$SITEURL$/help/on-topic)
+Please [take the tour](https://$SITEURL$/tour), and read up at our [help center](https://$SITEURL$/help/on-topic). This question is _off-topic_ because this site is for reviewing code. [“_For licensing, moral, and procedural reasons, we cannot review code written by other programmers. We expect you, as the author, to understand why the code is written the way that it is._”](https://$SITEURL$/help/on-topic)
 
 ###[Q] not workingg
-Please inform yourself, [take the tour](https://$SITEURL$/tour), and read up at our [help center](https://$SITEURL$/help/on-topic) before posting here. Your question is _off-topic_ because this site is for reviewing **working** code, not implementing code for you. When you have implemented the code feel free to [edit] your post to include it for a review.
+Please [take the tour](https://$SITEURL$/tour) and read up at our [help center](https://$SITEURL$/help/on-topic). This question is _off-topic_ because this site is for reviewing **working** code, not debugging code for you. When the code works then feel free to [edit] the post to include it for a review.
 
 ###[Q] broken
 Unfortunately this post is off-topic for this site. Please read [What topics can I ask about here?](https://$SITEURL$/help/on-topic) - note that it states "_If you are looking for feedback on a specific **working** piece of code...then you are in the right place!_" Also, when posting your question, there should have been text on the side that read "_Your question **must contain code that is already working correctly**_..." When you have fixed the code, please [edit] your post to include the working code and it can be reviewed."
@@ -113,7 +113,7 @@ If you have a NEW question, please ask it by clicking the [Ask Question](//$SITE
 While OPs are [encouraged to answer their own questions](https://$SITEURL$/help/self-answer) bear in mind that ["_Every answer must make at least one insightful observation about the code in the question. Answers that merely provide an alternate solution with no explanation or justification do not constitute valid $SITENAME$ answers and may be deleted._"](https://$SITEURL$/help/how-to-answer)...
 
 ###[A] post-accepted answer - Please consider voting
-Thank you for taking the time to accept the answer. Please consider voting on it as well. ["_The first thing you should do after reading someone's answer to your question is vote on the answer, like any user with sufficient reputation does. Vote up answers that are helpful, and vote down answers that give poor advice._"](https://codereview.stackexchange.com/help/someone-answers)
+Thank you for taking the time to accept the answer. Please consider voting on it as well. ["_The first thing you should do after reading someone's answer to your question is vote on the answer, like any user with sufficient reputation does. Vote up answers that are helpful, and vote down answers that give poor advice._"](https://$SITEURL$/help/someone-answers)
 
 ###[C] Too localized
 This question appears to be off-topic because it is too localized.
