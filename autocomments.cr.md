@@ -67,6 +67,9 @@ This question lacks any indication of what the code is intended to achieve. To h
 ###[Q] Which site and CR or not
 See ["Which Site?"](https://meta.stackexchange.com/a/129632/341145) and ["$SITENAME$ or not?"](https://codereview.meta.stackexchange.com/a/5778/120114)
 
+###[Q] database design with no code
+Welcome to Code Review! [Code to generate such a database can be reviewed](https://codereview.meta.stackexchange.com/a/9116/120114) but without any code it seems it is not [on-topic](https://codereview.stackexchange.com/help/on-topic).
+
 ###[A] Different language
 Hi. The question is tagged [tag:Javascript]. The consensus is that [answers should use the same language as the code in the question](https://codereview.meta.stackexchange.com/a/2631/120114). Please write your answer according to the tags. Thanks! :)
 
