@@ -11,7 +11,10 @@ Please see [_Does being on-topic at another Stack Exchange site automatically ma
 @ While this may be on-topic on CR in the future, please don't use the existence of the Code Review site as a reason to close a question. Evaluate the request and use a reason like *needs focus*, *primarily opinion-based*, etc. Then you can mention to the OP that it can be posted on Code Review if it is [on-topic](https://codereview.stackexchange.com/help/on-topic). Please see [_Does being on-topic at another Stack Exchange site automatically make a question off-topic for $SITENAME$?_](https://meta.stackoverflow.com/q/287400/1575353)
 
 ###[Q] answer in comment
-please add an answer instead of a comment. Refer to the section **When _shouldn't_ I comment?** on [Comment everywhere](https://codereview.stackexchange.com/help/privileges/comment).
+please add an answer instead of a comment. Refer to the section **When _shouldn't_ I comment?** on [Comment everywhere](https://stackoverflow.com/help/privileges/comment).
+
+###[Q] edit instead of comment
+When adding additional information you should [edit] your question instead of adding a comment. Learn more about comments including when to comment and when not to in [the Help Center page about Comments](//$SITEURL$/help/privileges/comment).
 
 ###[Q] Which site and CR or not
 See ["Which Site?"](https://meta.stackexchange.com/a/129632/341145) and ["Code Review or not?"](https://codereview.meta.stackexchange.com/a/5778/120114)

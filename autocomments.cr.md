@@ -8,7 +8,7 @@ Please [take the tour](https://$SITEURL$/tour), and read up at our [help center]
 Please [take the tour](https://$SITEURL$/tour) and read up at our [help center](https://$SITEURL$/help/on-topic). This question is _off-topic_ because this site is for reviewing **working** code, not debugging code for you. When the code works then feel free to [edit] the post to include it for a review.
 
 ###[Q] broken
-Unfortunately this post is off-topic for this site. Please read [What topics can I ask about here?](https://$SITEURL$/help/on-topic) - note that it states "_If you are looking for feedback on a specific **working** piece of code...then you are in the right place!_" Also, when posting your question, there should have been text on the side that read "_Your question **must contain code that is already working correctly**_..." When you have fixed the code, please [edit] your post to include the working code and it can be reviewed."
+Unfortunately this post is off-topic for this site. Please read [What topics can I ask about here?](https://$SITEURL$/help/on-topic) - note that it states "_If you are looking for feedback on a specific **working** piece of code...then you are in the right place!_" When the code works as intended, please [edit] your post to include the working code and it can be reviewed."
 
 ###[Q] missing code context
 Welcome to $SITENAME$! Please provide more complete code - e.g. complete function/method/class. ["_there are significant pieces of the core functionality missing, and we need you to fill in the details. Excerpts of large projects are fine, but if you have omitted too much, then reviewers are left imagining how your program works._"](https://codereview.meta.stackexchange.com/a/3652/120114)
@@ -68,7 +68,7 @@ This question lacks any indication of what the code is intended to achieve. To h
 See ["Which Site?"](https://meta.stackexchange.com/a/129632/341145) and ["$SITENAME$ or not?"](https://codereview.meta.stackexchange.com/a/5778/120114)
 
 ###[Q] database design with no code
-Welcome to Code Review! [Code to generate such a database can be reviewed](https://codereview.meta.stackexchange.com/a/9116/120114) but without any code it seems it is not [on-topic](https://codereview.stackexchange.com/help/on-topic).
+Welcome to $SITENAME$! [Code to generate such a database can be reviewed](https://codereview.meta.stackexchange.com/a/9116/120114) but without any code it seems it is not [on-topic](https://$SITEURL$/help/on-topic).
 
 ###[A] Different language
 Hi. The question is tagged [tag:Javascript]. The consensus is that [answers should use the same language as the code in the question](https://codereview.meta.stackexchange.com/a/2631/120114). Please write your answer according to the tags. Thanks! :)
@@ -81,6 +81,9 @@ Please note, questions involving code that's not working as intended, are off-to
 
 ###[A] don't answer questions likely to be closed
 [Please refrain from answering questions that are likely to get closed.](https://codereview.meta.stackexchange.com/a/6389/35991)
+
+###[A] don't answer questions likely to be closed - please flag until you gain CV priv
+[Please refrain from answering questions that are likely to get closed.](https://codereview.meta.stackexchange.com/a/6389/35991). in the future please use the  [flag option](https://codereview.stackexchange.com/help/privileges/flag-posts) until you gain the [cast close and reopen votes](https://codereview.stackexchange.com/help/privileges/close-questions) privilege
 
 ###[A] link-only answer
 A link to a solution is welcome, but please ensure your answer is useful without it: [add context around the link](https://meta.stackexchange.com/a/8259) so your fellow users will have some idea what it is and why it’s there, then quote the most relevant part of the page you're linking to in case the target page is unavailable. [Answers that are little more than a link may be deleted](https://$SITEURL$/help/deleted-answers).
