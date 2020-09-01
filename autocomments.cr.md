@@ -5,7 +5,7 @@ The current question title, which states your concerns about the code, is too ge
 Please [take the tour](https://$SITEURL$/tour), and read up at our [help center](https://$SITEURL$/help/on-topic). This question is _off-topic_ because this site is for reviewing code. [“_For licensing, moral, and procedural reasons, we cannot review code written by other programmers. We expect you, as the author, to understand why the code is written the way that it is._”](https://$SITEURL$/help/on-topic)
 
 ###[Q] not workingg
-Please [take the tour](https://$SITEURL$/tour) and read up at our [help center](https://$SITEURL$/help/on-topic). This question is _off-topic_ because this site is for reviewing **working** code, not debugging code for you. When the code works then feel free to [edit] the post to include it for a review.
+Welcome to Code Review! Unfortunately this question is _off-topic_ because this site is for reviewing **working** code. Please [take the tour](https://codereview.stackexchange.com/tour) and read up at our [help center](https://codereview.stackexchange.com/help/on-topic). When the code works then feel free to [edit] the post to include it for a review.
 
 ###[Q] broken
 Unfortunately this post is off-topic for this site. Please read [What topics can I ask about here?](https://$SITEURL$/help/on-topic) - note that it states "_If you are looking for feedback on a specific **working** piece of code...then you are in the right place!_" When the code works as intended, please [edit] your post to include the working code and it can be reviewed."
@@ -83,7 +83,7 @@ Please note, questions involving code that's not working as intended, are off-to
 [Please refrain from answering questions that are likely to get closed.](https://codereview.meta.stackexchange.com/a/6389/35991)
 
 ###[A] don't answer questions likely to be closed - please flag until you gain CV priv
-[Please refrain from answering questions that are likely to get closed.](https://codereview.meta.stackexchange.com/a/6389/35991). in the future please use the  [flag option](https://codereview.stackexchange.com/help/privileges/flag-posts) until you gain the [cast close and reopen votes](https://codereview.stackexchange.com/help/privileges/close-questions) privilege
+[Please refrain from answering questions that are likely to get closed.](https://codereview.meta.stackexchange.com/a/6389/35991). in the future please use the  [flag option](https://$SITEURL$/help/privileges/flag-posts) until you gain the [cast close and reopen votes](https://$SITEURL$/help/privileges/close-questions) privilege
 
 ###[A] link-only answer
 A link to a solution is welcome, but please ensure your answer is useful without it: [add context around the link](https://meta.stackexchange.com/a/8259) so your fellow users will have some idea what it is and why it’s there, then quote the most relevant part of the page you're linking to in case the target page is unavailable. [Answers that are little more than a link may be deleted](https://$SITEURL$/help/deleted-answers).
