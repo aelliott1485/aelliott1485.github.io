@@ -8,10 +8,10 @@ This question will probably be closed as a duplicate soon. If the answers from t
 Please see [_Does being on-topic at another Stack Exchange site automatically make a question off-topic for $SITENAME$?_](https://meta.stackoverflow.com/q/287400/1575353), [_Migration of code questions from $SITENAME$ to Code Review_](https://meta.stackoverflow.com/q/266749/1575353) and [this answer to _A guide to Code Review for $SITENAME$ users_](https://codereview.meta.stackexchange.com/a/5778/120114)
 
 ###[Q] VTC SO -> CR
-@ While this may be on-topic on CR in the future, please don't use the existence of the Code Review site as a reason to close a question. Evaluate the request and use a reason like *needs focus*, *primarily opinion-based*, etc. Then you can mention to the OP that it can be posted on Code Review if it is [on-topic](https://codereview.stackexchange.com/help/on-topic). Please see [_Does being on-topic at another Stack Exchange site automatically make a question off-topic for $SITENAME$?_](https://meta.stackoverflow.com/q/287400/1575353)
+@ While this may be on-topic on CR, in the future, please don't use the existence of the Code Review site as a reason to close a question. Evaluate the request and use a reason like *Needs more focus*, *primarily opinion-based*, etc. Then you can mention to the OP that it can be posted on Code Review if it is [on-topic](https://codereview.stackexchange.com/help/on-topic). Please see [_Does being on-topic at another Stack Exchange site automatically make a question off-topic for $SITENAME$?_](https://meta.stackoverflow.com/q/287400/1575353)
 
 ###[Q] answer in comment
-please add an answer instead of a comment. Refer to the section **When _shouldn't_ I comment?** on [Comment everywhere](https://stackoverflow.com/help/privileges/comment).
+please add an answer instead of a comment. Refer to the section **When _shouldn't_ I comment?** on [Comment everywhere](https://$SITEURL$/help/privileges/comment).
 
 ###[Q] edit instead of comment
 When adding additional information you should [edit] your question instead of adding a comment. Learn more about comments including when to comment and when not to in [the Help Center page about Comments](//$SITEURL$/help/privileges/comment).
