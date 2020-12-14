@@ -31,6 +31,9 @@ if you post on Code Review please read the help center pages like [_How do I ask
 ###[Q] recommend SQL -> CR
 @ when suggesting users post on CR it would be great if there was also a suggestion like "_Please read the relevant help center pages like '[What topics can I ask about here?](https://codereview.stackexchange.com/help/on-topic)' and  '[How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask)_". In the current form the code above would likely be closed as off-topic because it is missing context - the [sql tag](https://codereview.stackexchange.com/tags/sql/info) has specific guidelines and OPs should read the tag info first to include sufficient info.
 
+###[Q] Be careful when recommending Code Review to askers
+[Be careful when recommending Code Review to askers](https://meta.stackoverflow.com/q/253975/1575353)
+
 ###[Q] flagged for migration
 I've flagged for migration to CR per [_this meta post_](https://meta.stackoverflow.com/q/266749/1575353)
 
