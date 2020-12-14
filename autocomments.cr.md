@@ -5,7 +5,7 @@ The current question title, which states your concerns about the code, is too ge
 Please [take the tour](https://$SITEURL$/tour), and read up at our [help center](https://$SITEURL$/help/on-topic). This question is _off-topic_ because this site is for reviewing code. [“_For licensing, moral, and procedural reasons, we cannot review code written by other programmers. We expect you, as the author, to understand why the code is written the way that it is._”](https://$SITEURL$/help/on-topic)
 
 ###[Q] not workingg
-Welcome to Code Review! Unfortunately this question is _off-topic_ because this site is for reviewing **working** code. Please [take the tour](https://codereview.stackexchange.com/tour) and read up at our [help center](https://codereview.stackexchange.com/help/on-topic). When the code works then feel free to [edit] the post to include it for a review.
+Unfortunately this question is _off-topic_ because this site is for reviewing **working** code. Please [take the tour](https://$SITEURL$/tour) and read up at our [help center](https://$SITEURL$/help/on-topic). When the code works then feel free to [edit] the post to include it for a review.
 
 ###[Q] broken
 Unfortunately this post is off-topic for this site. Please read [What topics can I ask about here?](https://$SITEURL$/help/on-topic) - note that it states "_If you are looking for feedback on a specific **working** piece of code...then you are in the right place!_" When the code works as intended, please [edit] your post to include the working code and it can be reviewed."
@@ -69,6 +69,9 @@ See ["Which Site?"](https://meta.stackexchange.com/a/129632/341145) and ["$SITEN
 
 ###[Q] database design with no code
 Welcome to $SITENAME$! [Code to generate such a database can be reviewed](https://codereview.meta.stackexchange.com/a/9116/120114) but without any code it seems it is not [on-topic](https://$SITEURL$/help/on-topic).
+
+###[Q] UML design off-topic unless with code.
+Ahoy! The general consensus is that [UML designs are not reviewable unless they accompany code](https://codereview.meta.stackexchange.com/a/1926/120114). 
 
 ###[A] Different language
 Hi. The question is tagged [tag:Javascript]. The consensus is that [answers should use the same language as the code in the question](https://codereview.meta.stackexchange.com/a/2631/120114). Please write your answer according to the tags. Thanks! :)
