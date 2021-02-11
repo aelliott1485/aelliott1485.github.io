@@ -71,7 +71,10 @@ See ["Which Site?"](https://meta.stackexchange.com/a/129632/341145) and ["$SITEN
 Welcome to $SITENAME$! [Code to generate such a database can be reviewed](https://codereview.meta.stackexchange.com/a/9116/120114) but without any code it seems it is not [on-topic](https://$SITEURL$/help/on-topic).
 
 ###[Q] UML design off-topic unless with code.
-Ahoy! The general consensus is that [UML designs are not reviewable unless they accompany code](https://codereview.meta.stackexchange.com/a/1926/120114). 
+Ahoy! The general consensus is that [UML designs are not reviewable unless they accompany code](https://codereview.meta.stackexchange.com/a/1926/120114).
+
+###[Q] Character limit increased
+If you are concerned about the size of your code, bear in mind that [the character limit on Code Review was increased to 65k](https://codereview.meta.stackexchange.com/a/7163/120114).
 
 ###[A] Different language
 Hi. The question is tagged [tag:Javascript]. The consensus is that [answers should use the same language as the code in the question](https://codereview.meta.stackexchange.com/a/2631/120114). Please write your answer according to the tags. Thanks! :)
