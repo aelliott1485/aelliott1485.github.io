@@ -37,6 +37,9 @@ if you post on Code Review please read the help center pages like [_How do I ask
 ###[Q] flagged for migration
 I've flagged for migration to CR per [_this meta post_](https://meta.stackoverflow.com/q/266749/1575353)
 
+###[Q] OP asking about complexity only - not on-topic
+if the OP isn't interested in feedback about any or all facets of the code then it wouldn't really be [on-topic](https://codereview.stackexchange.com/help/on-topic) for CR. Please refer to [this meta answer](https://codereview.meta.stackexchange.com/a/8374/120114) (and its siblings) for more information.
+
 ###[A] Answers just to say Thanks!
 Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](//$SITEURL$/privileges) to upvote answers you like, which is the $SITENAME$ way of saying thank you.
 
