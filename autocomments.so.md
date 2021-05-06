@@ -22,6 +22,9 @@ See ["Which Site?"](https://meta.stackexchange.com/a/129632/341145) and ["Code R
 ###[Q] OP referred to CR
 If you do post on CR please read the [_How do I ask a good question?_](https://codereview.stackexchange.com/help/how-to-ask) - the requirements are a little different for that site.
 
+###[Q] OP referred to CR about GBP
+@loremipsum Please take a look at the CR Help center page [_What types of questions should I avoid asking?_](https://codereview.stackexchange.com/help/dont-ask) '_It's OK to ask "Does this code follow common best practices?", but not "What is the best practice regarding X?"_'. If the OP presented fully working code **with enough context** then that would be [on-topic](https://codereview.stackexchange.com/help/on-topic).
+
 ###[Q] if you post on CR - read how do I ask
 if you post on Code Review please read the help center pages like [_How do I ask a good question?_](https://codereview.stackexchange.com/help/how-to-ask) - in its current form this post would be considered off-topic because there is little context about what the code does and how the function is used, plus the title is about CR goals instead of describing what the code does
 
@@ -39,6 +42,9 @@ I've flagged for migration to CR per [_this meta post_](https://meta.stackoverfl
 
 ###[Q] OP asking about complexity only - not on-topic
 if the OP isn't interested in feedback about any or all facets of the code then it wouldn't really be [on-topic](https://codereview.stackexchange.com/help/on-topic) for CR. Please refer to [this meta answer](https://codereview.meta.stackexchange.com/a/8374/120114) (and its siblings) for more information.
+
+###[Q] Why is “Can someone help me?" not an actual question
+It sounds like more details about what isn't working are needed. You might want to read [Why is “Can someone help me?”](https://meta.stackoverflow.com/a/284237/1575353) not an actual question? and [How to ask](http://$SITEURL$/help/how-to-ask)
 
 ###[A] Answers just to say Thanks!
 Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](//$SITEURL$/privileges) to upvote answers you like, which is the $SITENAME$ way of saying thank you.
