@@ -130,6 +130,9 @@ While OPs are [encouraged to answer their own questions](https://$SITEURL$/help/
 ###[A] post-accepted answer - Please consider voting
 Thank you for taking the time to accept the answer. Please consider voting on it as well. ["_The first thing you should do after reading someone's answer to your question is vote on the answer, like any user with sufficient reputation does. Vote up answers that are helpful, and vote down answers that give poor advice._"](https://$SITEURL$/help/someone-answers)
 
+### [A] short answer- expand?
+While it seems that [short answers are acceptable](https://codereview.meta.stackexchange.com/a/1479/120114) are you able to expand this answer, perhaps explaining reasons for the suggestion?
+
 ###[C] Too localized
 This question appears to be off-topic because it is too localized.
 
