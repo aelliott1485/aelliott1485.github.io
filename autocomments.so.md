@@ -31,6 +31,9 @@ if you post on Code Review please read the help center pages like [_How do I ask
 ### [Q] when recommending CR also recommend reading help center
 @ when suggesting users post on CR it would be great if there was also a suggestion like "_Please read the relevant help center pages like '[What topics can I ask about here?](https://codereview.stackexchange.com/help/on-topic)' and  '[How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask)_". In the current form the code above would likely be closed as off-topic because it [is missing context](https://codereview.meta.stackexchange.com/questions/3649/my-question-was-closed-as-being-off-topic-what-are-my-options/3652#3652).
 
+### [Q] design off-topic on CR
+The general consensus is that design questionss are not reviewable on CR unless they accompany code - thus in the current form this post would not be on-topic there.
+
 ###[Q] recommend SQL -> CR
 @ when suggesting users post on CR it would be great if there was also a suggestion like "_Please read the relevant help center pages like '[What topics can I ask about here?](https://codereview.stackexchange.com/help/on-topic)' and  '[How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask)_". In the current form the code above would likely be closed as off-topic because it is missing context - the [sql tag](https://codereview.stackexchange.com/tags/sql/info) has specific guidelines and OPs should read the tag info first to include sufficient info.
 
