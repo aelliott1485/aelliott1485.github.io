@@ -2,10 +2,10 @@
 The current question title, which states your concerns about the code, is too general to be useful here. Please [edit] to the site standard, which is for the title to simply state the task accomplished by the code. Please see [How do I ask a good question?](https://$SITEURL$/help/how-to-ask), as well as  [How to get the best value out of $SITENAME$: Asking Questions](https://codereview.meta.stackexchange.com/q/2436/120114) for guidance on writing good question titles.
 
 ### [Q] title about mechanism
-Please [edit] your question so that the title describes the *purpose* of the code, rather than its *mechanism*.  We really need to understand the motivational context to give good reviews.  Thanks!
+Please [edit] your question so that the title describes the *purpose* of the code, rather than its *mechanism*.  We really need to understand the motivational context to give good reviews. Please see [_How to get the best value out of $SITENAME$: Asking Questions_](https://codereview.meta.stackexchange.com/q/2436) for guidance on writing good question titles.
 
 ###[Q] update title to summarize outcome
-Welcome to $SITENAME$! We need to know *what the code is intended to achieve*. To help reviewers give you better answers, please add sufficient context to your question, including a title that summarizes the *purpose* of the code. We want to know **why** much more than **how**. The more you tell us about [what your code is for](//meta.codereview.stackexchange.com/q/1226), the easier it will be for reviewers to help you.  The title needs an [edit] to simply [**state the task**](//meta.codereview.stackexchange.com/q/2436), rather than your concerns about the code.
+We need to know *what the code is intended to achieve*. To help reviewers give you better answers, please add sufficient context to your question, including a title that summarizes the *purpose* of the code. We want to know **why** much more than **how**. The more you tell us about [what your code is for](//meta.codereview.stackexchange.com/q/1226), the easier it will be for reviewers to help you.  The title needs an [edit] to simply [**state the task**](//meta.codereview.stackexchange.com/q/2436), rather than your concerns about the code.
 
 ###[Q] off-topic: Authorship of code
 Please [take the tour](https://$SITEURL$/tour), and read up at our [help center](https://$SITEURL$/help/on-topic). This question is _off-topic_ because this site is for reviewing code. [“_For licensing, moral, and procedural reasons, we cannot review code written by other programmers. We expect you, as the author, to understand why the code is written the way that it is._”](https://$SITEURL$/help/on-topic)
@@ -48,6 +48,9 @@ Maybe you missed the text on the right side when asking: "_Your question must co
 
 ###[Q] 3rd party code link
 If you want more code than that snippet of HTML reviewed then please expand the code here. [Please embed the code to be reviewed directly in the question](https://codereview.meta.stackexchange.com/a/3653/120114). Links to code hosted on third-party sites are permissible, but the most relevant excerpts must be embedded in the question itself. A [stack snippet](https://stackoverflow.blog/2014/09/16/introducing-runnable-javascript-css-and-html-code-snippets/) could also be used to embed the code.
+
+###[Q] editor added code from 3rd party link
+Thank you for attempting to help keep the question on-topic, but please refrain from adding the code to the post- [per licensing and other reasons](https://codereview.meta.stackexchange.com/q/467/120114) the OP must be the one to do that.
 
 ###[Q] Commented with more details
 When adding additional information you should [edit] your question  instead of adding a comment. I have added that information to your post. Learn more about comments including when to comment and when not to in [the Help Center page about Comments](https://$SITEURL$/help/privileges/comment).
