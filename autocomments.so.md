@@ -28,8 +28,11 @@ If you do post on CR please read the [_How do I ask a good question?_](https://c
 ###[Q] if you post on CR - read how do I ask
 if you post on Code Review please read the help center pages like [_How do I ask a good question?_](https://codereview.stackexchange.com/help/how-to-ask) - in its current form this post would be considered off-topic because there is little context about what the code does and how the function is used, plus the title is about CR goals instead of describing what the code does
 
-### [Q] when recommending CR also recommend reading help center
+### [Q] when recommending CR also recommend reading help center- missing context
 @ when suggesting users post on CR it would be great if there was also a suggestion like "_Please read the relevant help center pages like '[What topics can I ask about here?](https://codereview.stackexchange.com/help/on-topic)' and  '[How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask)_". In the current form the code above would likely be closed as off-topic because it [is missing context](https://codereview.meta.stackexchange.com/questions/3649/my-question-was-closed-as-being-off-topic-what-are-my-options/3652#3652).
+
+###[Q] when recommending CR also recommend reading help center- code missing
+@ when suggesting users post on CR it would be great if there was also a suggestion like "_Please read the relevant help center pages like '[What topics can I ask about here?](https://codereview.stackexchange.com/help/on-topic)' and  '[How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask)_". In the current form the code above would likely be closed as off-topic because [the code is not embedded directly](https://codereview.meta.stackexchange.com/questions/3649/my-question-was-closed-as-being-off-topic-what-are-my-options/3653#3653).
 
 ### [Q] design off-topic on CR
 The general consensus is that design questionss are not reviewable on CR unless they accompany code - thus in the current form this post would not be on-topic there.
