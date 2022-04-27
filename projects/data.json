@@ -1,0 +1,26 @@
+[
+  {
+    "state-province": null,
+    "country": "United Kingdom",
+    "name": "University of Cambridge",
+    "web_pages": ["http://www.cam.ac.uk/"],
+    "domains": ["cam.ac.uk"],
+    "alpha_two_code": "GB"
+  },
+  {
+    "state-province": null,
+    "country": "United Kingdom",
+    "name": "University of Cambridge",
+    "web_pages": ["http://www.cam.ac.uk/"],
+    "domains": ["cam.ac.uk"],
+    "alpha_two_code": "GB"
+  },
+  {
+    "state-province": null,
+    "country": "United Kingdom",
+    "name": "Camberwell College of Arts",
+    "web_pages": ["http://www.camb.linst.ac.uk/"],
+    "domains": ["camb.linst.ac.uk"],
+    "alpha_two_code": "GB"
+  }
+]
