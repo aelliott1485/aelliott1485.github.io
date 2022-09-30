@@ -91,6 +91,9 @@ Ahoy! The general consensus is that [UML designs are not reviewable unless they 
 ###[Q] Character limit increased
 If you are concerned about the size of your code, bear in mind that [the character limit on $SITENAME$ was increased to 65k](https://codereview.meta.stackexchange.com/a/7163/120114).
 
+###[Q] cross-posted
+Please note that [cross-posting is generally frowned upon](https://meta.stackexchange.com/a/64069/341145) and should not be done.
+
 ###[A] Different language
 Hi. The question is tagged [tag:Javascript]. The consensus is that [answers should use the same language as the code in the question](https://codereview.meta.stackexchange.com/a/2631/120114). Please write your answer according to the tags. Thanks! :)
 
