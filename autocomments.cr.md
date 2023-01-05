@@ -119,28 +119,28 @@ This does not answer the question the OP posed (i.e. "_How can I make it run fas
 You have presented an alternative solution, but haven't reviewed the code. Please explain your reasoning (how your solution works and why it is better than the original) so that the author and other readers can learn from your thought process. Please read [Why are alternative solutions not welcome?](https://codereview.meta.stackexchange.com/a/8404/120114)
 
 ###[A] follow up question
-This does not really answer the question. If you have a different question, you can ask it by clicking [Ask Question](https://codereview.stackexchange.com/questions/ask), though only if you have **working code**. This statement would be appropriate as a  [comment](https://stackoverflow.com/help/privileges/comment), though you will need to earn 50 reputation points first...
+This does not really answer the question. If you have a different question, you can ask it by clicking [Ask Question](https://codereview.stackexchange.com/questions/ask), though only if you have **working code**. This statement would be appropriate as a  [comment](https://codereview.stackexchange.com/help/privileges/comment), though you will need to earn 50 reputation points first...
 
 ###[A] Answers just to say Thanks!
-Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](//$SITEURL$/privileges) to upvote answers you like, which is the $SITENAME$ way of saying thank you.
+Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](https://codereview.stackexchange.com/privileges) to upvote answers you like, which is the $SITENAME$ way of saying thank you.
 
 ###[A] Nothing but a URL (and isn't spam)
 Whilst this may theoretically answer the question, [it would be preferable](//meta.stackoverflow.com/q/8259) to include the essential parts of the answer here, and provide the link for reference.
 
 ###[A] Requests to OP for further information
-This is really a comment, not an answer. With a bit more rep, [you will be able to post comments](//$SITEURL$/privileges/comment). For the moment I've added the comment for you, and I'm flagging this post for deletion.
+This is really a comment, not an answer. With a bit more rep, [you will be able to post comments](https://codereview.stackexchange.com/privileges/comment). For the moment I've added the comment for you, and I'm flagging this post for deletion.
 
 ###[A] OP using an answer for further information
 Please use the *Post answer* button only for actual answers. You should modify your original question to add additional information.
 
 ###[A] OP adding a new question as an answer
-If you have another question, please ask it by clicking the [Ask Question](//$SITEURL$/questions/ask) button.
+If you have another question, please ask it by clicking the [Ask Question](https://codereview.stackexchange.com/questions/ask) button.
 
 ###[A] Another user adding a 'Me too!'
-If you have a NEW question, please ask it by clicking the [Ask Question](//$SITEURL$/questions/ask) button. If you have sufficient reputation, [you may upvote](//$SITEURL$/privileges/vote-up) the question. Alternatively, "star" it as a favorite and you will be notified of any new answers.
+If you have a NEW question, please ask it by clicking the [Ask Question](https://codereview.stackexchange.com/questions/ask) button. If you have sufficient reputation, [you may upvote](https://codereview.stackexchange.com/privileges/vote-up) the question. Alternatively, "star" it as a favorite and you will be notified of any new answers.
 
 ###[A] NAA self-answer on CR
-While OPs are [encouraged to answer their own questions](https://codereview.stackexchange.com/help/self-answer) bear in mind that ["_Every answer must make at least one insightful observation about the code in the question. Answers that merely provide an alternate solution with no explanation or justification do not constitute valid $SITENAME$ answers and may be deleted._"](https://codereview.stackexchange.com/help/how-to-answer)...
+While OPs are [encouraged to answer their own questions](https://codereview.stackexchange.com/help/self-answer) bear in mind that ["_Your answer must meet the standards of a Code Review answer, just like any other answer. **Describe what you changed, and why**._"](https://codereview.stackexchange.com/help/someone-answers). [Code-only answers that don't actually review the code are insufficient](https://codereview.meta.stackexchange.com/q/1463) and are subject to deletion.
 
 ###[A] post-accepted answer - Please consider voting
 Thank you for taking the time to accept the answer. Please consider voting on it as well. ["_The first thing you should do after reading someone's answer to your question is vote on the answer, like any user with sufficient reputation does. Vote up answers that are helpful, and vote down answers that give poor advice._"](https://codereview.stackexchange.com/help/someone-answers)
@@ -152,5 +152,5 @@ While it seems that [short answers are acceptable](https://codereview.meta.stack
 This question appears to be off-topic because it is too localized.
 
 ###[EQ] Improper tagging
-The tags you were using are not appropriate for this question. Please review [What are tags, and how should I use them?](//$SITEURL$/help/tagging)
+The tags you were using are not appropriate for this question. Please review [What are tags, and how should I use them?](https://codereview.stackexchange.com/help/tagging)
 
