@@ -34,6 +34,9 @@ if you post on Code Review please read the help center pages like [_How do I ask
 ###[Q] when recommending CR also recommend reading help center- code missing
 @ when suggesting users post on CR it would be great if there was also a suggestion like "_Please read the relevant help center pages like '[What topics can I ask about here?](https://codereview.stackexchange.com/help/on-topic)' and  '[How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask)_". In the current form the code above would likely be closed as off-topic because [the code is not embedded directly](https://codereview.meta.stackexchange.com/a/3653/120114).
 
+### [Q] read on-topic- missing code
+If you post on CR then first please read the help center pages like [_What topics can I ask about here?_](https://codereview.stackexchange.com/help/on-topic) and  [_How do I ask a good question?_](https://codereview.stackexchange.com/help/how-to-ask)". In the current form the code above would likely be closed as off-topic because [the code is not embedded directly](https://codereview.meta.stackexchange.com/a/3653/120114).
+
 ### [Q] design off-topic on CR
 The general consensus is that [design questions are not reviewable on CR unless they accompany code](https://codereview.meta.stackexchange.com/a/9116/120114) - thus in the current form this post would not be on-topic there.
 
