@@ -23,7 +23,10 @@ See ["Which Site?"](https://meta.stackexchange.com/a/129632/341145) and ["Code R
 If you do post on CR please read the [_How do I ask a good question?_](https://codereview.stackexchange.com/help/how-to-ask) - the requirements are a little different for that site.
 
 ###[Q] OP referred to CR about GBP
-@loremipsum Please take a look at the CR Help center page [_What types of questions should I avoid asking?_](https://codereview.stackexchange.com/help/dont-ask) '_It's OK to ask "Does this code follow common best practices?", but not "What is the best practice regarding X?"_'. If the OP presented fully working code **with enough context** then that would be [on-topic](https://codereview.stackexchange.com/help/on-topic).
+@ Please take a look at the CR Help center page [_What types of questions should I avoid asking?_](https://codereview.stackexchange.com/help/dont-ask) '_It's OK to ask "Does this code follow common best practices?", but not "What is the best practice regarding X?"_'. If the OP presented fully working code **with enough context** then that would be [on-topic](https://codereview.stackexchange.com/help/on-topic).
+
+### [Q] OP referred to CR about CWNAI
+@loremipsum Please take a look at the CR Help center page [_What types of questions should I avoid asking?_](https://codereview.stackexchange.com/help/dont-ask) '_In short, questions seeking open-ended feedback on real working code that you own or maintain are on-topic for Code Review._'. If the OP presented fully **working** code with enough context then that would be [on-topic](https://codereview.stackexchange.com/help/on-topic).
 
 ###[Q] if you post on CR - read how do I ask
 if you post on Code Review please read the help center pages like [_How do I ask a good question?_](https://codereview.stackexchange.com/help/how-to-ask) - in its current form this post would be considered off-topic because there is little context about what the code does and how the function is used, plus the title is about CR goals instead of describing what the code does
