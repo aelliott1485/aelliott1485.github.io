@@ -97,6 +97,9 @@ Please note that [cross-posting is generally frowned upon](https://meta.stackexc
 ###[Q] image of code/text
 Please [add text instead of an image of text](https://meta.stackoverflow.com/a/285557/1575353).
 
+###[Q] Should use English only
+["_Unless you're posting on a language-related site (e.g. French Language) or a site where all questions are expected to be in a different language (e.g. Stack Overflow in Spanish), all posts are expected to be in English_"](https://meta.stackexchange.com/a/13684/341145).
+
 ###[A] ChatGPT answer
 [AI generated answers are not welcome for various reasons, including plagiarism.](https://codereview.meta.stackexchange.com/a/10863/120114)
 
